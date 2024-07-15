@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/menuItemInicioCliente"
+            android:title="@string/inicio"
+            android:icon="@drawable/ic_inicio"/>
+
+        <item android:id="@+id/menuItemPerfilCliente"
+            android:title="@string/miPerfil"
+            android:icon="@drawable/ic_perfil"/>
+
+        <item android:id="@+id/menuItemMascotas"
+            android:title="@string/misMascotas"
+            android:icon="@drawable/ic_mascota"/>
+
+        <item android:id="@+id/menuItemHistorial"
+            android:title="@string/historial"
+            android:icon="@drawable/ic_historial"/>
+
+        <item android:id="@+id/menuItemCerrarSesionCliente"
+            android:title="@string/cerrarSesion"
+            android:icon="@drawable/ic_logout"/>
+
+    </group>
+</menu>

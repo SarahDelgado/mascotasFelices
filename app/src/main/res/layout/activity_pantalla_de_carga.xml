@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/marronClaro"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".PantallaDeCarga">
+
+    <ImageView
+        android:id="@+id/imgDog"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:contentDescription="@string/descripcionImgDog"
+        app:srcCompat="@drawable/logo_app" />
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo"
+        android:textColor="@color/marronOscuro"
+        android:textSize="50sp"
+        android:textStyle="bold|italic" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="291dp"
+        android:layout_height="215dp"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="animation_dog.json"
+        app:lottie_imageAssetsFolder="assets"
+        app:lottie_loop="true" />
+
+    <TextView
+        android:id="@+id/txtCargando"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cargando"
+        android:textColor="@color/marronOscuro"
+        android:textSize="25sp"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>

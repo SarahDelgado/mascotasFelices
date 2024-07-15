@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/menuItemInicioAdmin"
+            android:title="@string/inicio"
+            android:icon="@drawable/ic_inicio"/>
+
+        <item android:id="@+id/menuItemPerfilAdmin"
+            android:title="@string/perfil"
+            android:icon="@drawable/ic_perfil"/>
+
+        <item android:id="@+id/menuItemAddEmpleado"
+            android:title="@string/addEmpleado"
+            android:icon="@drawable/ic_plus_24"/>
+
+        <item android:id="@+id/menuItemBorrarEmpleado"
+            android:title="@string/borrarEmpleado"
+            android:icon="@drawable/ic_borrar"/>
+
+        <item android:id="@+id/menuItemCerrarSesionAdmin"
+            android:title="@string/cerrarSesion"
+            android:icon="@drawable/ic_logout"/>
+
+    </group>
+
+</menu>

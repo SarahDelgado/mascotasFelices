@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name" translatable="false">Mascotas Felices</string>
+    <string name="titulo" translatable="false">Mascotas Felices</string>
+    <string name="autor" translatable="false">Sarah Delgado Martin</string>
+    <string name="descripcionImgDog">Imagen de un perrito muy adorable</string>
+    <string name="cargando">CARGANDO…</string>
+    <string name="perfil">Perfil</string>
+    <string name="inicio">Inicio</string>
+    <string name="registrar">Registrar</string>
+    <string name="salir">Salir</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="aceptar">He leído y acepto los</string>
+    <string name="terminos">términos y condiciones de uso</string>
+    <string name="tituloterminos">Términos y Condiciones de Uso</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="compartir">Compartir</string>
+    <string name="acercaDe">Acerca de…</string>
+    <string name="terminos1">1. Introducción. Bienvenido a Mascotas Felices. Al descargar, instalar y utilizar nuestra aplicación, aceptas cumplir con estos Términos y Condiciones de Uso. Si no estás de acuerdo con estos términos, no debes utilizar la aplicación.</string>
+    <string name="terminos2">2. Uso de la Aplicación. La aplicación Mascotas Felices está diseñada para ayudar a los usuarios a gestionar el cuidado de sus mascotas. Está prohibido el uso de la aplicación para cualquier propósito ilegal o no autorizado.</string>
+    <string name="terminos3">3. Registro de Usuario.
+Para acceder a ciertas funciones de la aplicación, es posible que debas registrarte y crear una cuenta. Eres responsable de mantener la confidencialidad de tu cuenta y contraseña y de restringir el acceso a tu dispositivo. Aceptas la responsabilidad de todas las actividades que ocurran bajo tu cuenta.</string>
+    <string name="terminos4">4. Privacidad.
+Nos comprometemos a proteger tu privacidad. Consulta nuestra Política de Privacidad para obtener detalles sobre cómo recopilamos, utilizamos y protegemos tu información personal.</string>
+    <string name="terminos5">5. Propiedad Intelectual.
+Todos los derechos de propiedad intelectual de la aplicación y su contenido (excepto el contenido proporcionado por los usuarios) son propiedad de Mascotas Felices o sus licenciantes. No puedes reproducir, distribuir, modificar o crear obras derivadas de nuestro contenido sin nuestro consentimiento expreso.</string>
+    <string name="terminos6">6. Contenido del Usuario.
+Eres responsable del contenido que publiques en la aplicación. No debes publicar contenido que sea ilegal, ofensivo, difamatorio o que infrinja los derechos de terceros. Nos reservamos el derecho de eliminar cualquier contenido que consideremos inapropiado.</string>
+    <string name="terminos7">7. Limitación de Responsabilidad.
+La aplicación se proporciona "tal cual" y "según disponibilidad". No garantizamos que la aplicación estará libre de errores o interrupciones. En la máxima medida permitida por la ley, no seremos responsables por cualquier daño directo, indirecto, incidental, especial o consecuente que surja del uso o la imposibilidad de usar la aplicación.</string>
+    <string name="terminos8">8. Modificaciones a los Términos.
+Nos reservamos el derecho de modificar estos Términos y Condiciones de Uso en cualquier momento. Las modificaciones serán efectivas al publicarlas en la aplicación. Es tu responsabilidad revisar periódicamente estos términos para estar informado de cualquier cambio.</string>
+    <string name="terminos9">9. Terminación.
+Podemos suspender o terminar tu acceso a la aplicación en cualquier momento, sin previo aviso, si creemos que has violado estos Términos y Condiciones de Uso.</string>
+    <string name="terminos10">10. Ley Aplicable.
+Estos Términos y Condiciones de Uso se regirán e interpretarán de acuerdo con las leyes del país en el que operamos. Cualquier disputa que surja en relación con estos términos será sometida a la jurisdicción exclusiva de los tribunales de dicho país.</string>
+    <string name="terminos11">11. Contacto.
+Si tienes alguna pregunta sobre estos Términos y Condiciones de Uso, por favor contáctanos en sarahdelgado36@gmail.com.</string>
+    <string name="paseos">Paseos</string>
+    <string name="hospedajes">Hospedajes</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="dni">DNI</string>
+    <string name="telefono">Teléfono</string>
+    <string name="registro">Registro</string>
+    <string name="confirmarPassword">Confirmar contraseña</string>
+    <string name="miPerfil">Mi perfil</string>
+    <string name="misMascotas">Mis mascotas</string>
+    <string name="historial">Historial</string>
+    <string name="configuracion">Configuración</string>
+    <string name="confirmarNewPassword">Confirmar nueva contraseña</string>
+    <string name="nuevaPassword">Nueva contraseña</string>
+    <string name="guardarCambios">Guardar cambios</string>
+    <string name="telefonosContacto">Teléfonos de contacto</string>
+    <string name="tipoMascota">Tipo de mascota</string>
+    <string name="raza">Raza</string>
+    <string name="fechNac">Fecha de nacimiento</string>
+    <string name="peso">Peso</string>
+    <string name="esterilizado">¿Está esterilizado/a?</string>
+    <string name="fotoMascota">Foto de la mascota</string>
+    <string name="addMascota">Añadir mascota</string>
+    <string name="sizeLetra">Tamaño de letra</string>
+    <string name="idioma">Idioma</string>
+    <string name="residencia">Residencia asociada</string>
+    <string name="modoOscuro">Modo oscuro</string>
+    <string name="addEmpleado">Añadir empleado</string>
+    <string name="addHorario">Añadir horario</string>
+    <string name="nivelAfectuoso">Nivel de afectuoso</string>
+    <string name="nivelAgresivo">Nivel de manejo de mascotas agresivas</string>
+    <string name="nivelEstricto">Nivel de estricto</string>
+    <string name="nivelEnfermos">Nivel de manejo de mascotas enfermas</string>
+    <string name="tipoEmpleado">Tipo de empleado</string>
+    <string name="salario">Salario</string>
+    <string name="pagoHora">Pago por hora</string>
+    <string name="paseador">Paseador</string>
+    <string name="cuidador">Cuidador</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="cambiarImagen">Cambiar imagen</string>
+    <string name="cambiarPassword">Cambiar contraseña</string>
+    <string-array name="tiposEmpleado">
+        <item>Cuidador</item>
+        <item>Paseador</item>
+    </string-array>
+    <string name="salarioFormato">%.2f €</string>
+    <string name="pagoHoraFormato">%.2f €/hora</string>
+    <string name="guardar">Guardar</string>
+    <string name="noMascotasGuardadas">No tienes mascotas guardadas</string>
+    <string name="crearCuenta">Crear cuenta</string>
+    <string name="logoAplicacion">Logo de la aplicacion</string>
+    <string name="requerido">*Obligatorio</string>
+    <string-array name="tiposMascota">
+        <item>Gato</item>
+        <item>Perro</item>
+    </string-array>
+    <string-array name="confirmacion">
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+    <string name="horarioLaboral">Horario laboral: %1$s - %2$s</string>
+    <string name="habitacionAsignada">Habitación asignada: Número %1$d - %2$s</string>
+    <string name="noMascotasHospedadas">No hay mascotas hospedadas</string>
+    <string name="diaLibre">Hoy tienes el día libre :)</string>
+    <string name="mascotasHospedadas">Mascotas hospedadas</string>
+    <string name="fecha">Fecha</string>
+    <string name="habitacion">Habitación</string>
+    <string name="horaFin">Hora de finalización</string>
+    <string name="horaInicio">Hora de inicio</string>
+    <string name="empleado">Empleado</string>
+    <string name="formatoRangoFechas">%1$s - %2$s</string>
+    <string name="mascota">Mascota</string>
+    <string name="pagar">Pagar</string>
+    <string name="borrarEmpleado">Borrar empleado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="seleccioneEmpleado">Seleccione un empleado</string>
+    <string name="borrar">Borrar</string>
+    <string name="borrarMascota">Borrar Mascota</string>
+    <string name="edad">Edad</string>
+    <string name="seguroBorrar">¿Estás seguro que quieres borrar la mascota?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="seguroBorrarEmpleado">¿Estás seguro de que quieres borrar al empleado</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="nivelesPaseador">Niveles del paseador</string>
+    <string name="noPaseos">No hay paseos para mostrar</string>
+    <string name="noHospedajes">No hay hospedajes para mostrar</string>
+    <string name="comprobarDisponibilidad">Comprobar Disponibilidad</string>
+</resources>

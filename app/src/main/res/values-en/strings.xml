@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Mascotas Felices</string>
+    <string name="titulo" translatable="false">Mascotas Felices</string>
+    <string name="autor" translatable="false">Sarah Delgado Martin</string>
+    <string name="descripcionImgDog">Image of a very adorable puppy</string>
+    <string name="cargando">LOADING…</string>
+    <string name="perfil">Profile</string>
+    <string name="inicio">Home</string>
+    <string name="registrar">Register</string>
+    <string name="salir">Log out</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="aceptar">I have read and accept the</string>
+    <string name="terminos">terms and conditions of use</string>
+    <string name="tituloterminos">Terms and Conditions of Use</string>
+    <string name="cerrarSesion">Log out</string>
+    <string name="compartir">Share</string>
+    <string name="acercaDe">About…</string>
+    <string name="terminos1">1. Introduction. Welcome to Mascotas Felices. By downloading, installing, and using our application, you agree to comply with these Terms and Conditions of Use. If you do not agree with these terms, you should not use the application.</string>
+    <string name="terminos2">2. Use of the Application. The Mascotas Felices application is designed to help users manage the care of their pets. The use of the application for any illegal or unauthorized purpose is prohibited.</string>
+    <string name="terminos3">3. User Registration. To access certain features of the application, you may need to register and create an account. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your device. You accept responsibility for all activities that occur under your account.</string>
+    <string name="terminos4">4. Privacy. We are committed to protecting your privacy. Please refer to our Privacy Policy for details on how we collect, use, and protect your personal information.</string>
+    <string name="terminos5">5. Intellectual Property. All intellectual property rights of the application and its content (except for content provided by users) are owned by Mascotas Felices or its licensors. You may not reproduce, distribute, modify, or create derivative works from our content without our express consent.</string>
+    <string name="terminos6">6. User Content. You are responsible for the content you post on the application. You must not post content that is illegal, offensive, defamatory, or infringes the rights of others. We reserve the right to remove any content we deem inappropriate.</string>
+    <string name="terminos7">7. Limitation of Liability. The application is provided "as is" and "as available". We do not guarantee that the application will be error-free or uninterrupted. To the fullest extent permitted by law, we will not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the application.</string>
+    <string name="terminos8">8. Changes to the Terms. We reserve the right to modify these Terms and Conditions of Use at any time. Changes will be effective when posted on the application. It is your responsibility to review these terms periodically to stay informed of any changes.</string>
+    <string name="terminos9">9. Termination. We may suspend or terminate your access to the application at any time, without prior notice, if we believe you have violated these Terms and Conditions of Use.</string>
+    <string name="terminos10">10. Governing Law. These Terms and Conditions of Use will be governed and interpreted in accordance with the laws of the country in which we operate. Any dispute arising in connection with these terms will be subject to the exclusive jurisdiction of the courts of that country.</string>
+    <string name="terminos11">11. Contact. If you have any questions about these Terms and Conditions of Use, please contact us at sarahdelgado36@gmail.com.</string>
+    <string name="paseos">Walks</string>
+    <string name="hospedajes">Accommodations</string>
+    <string name="nombre">Name</string>
+    <string name="direccion">Address</string>
+    <string name="dni">DNI</string>
+    <string name="telefono">Phone</string>
+    <string name="registro">Registration</string>
+    <string name="confirmarPassword">Confirm password</string>
+    <string name="miPerfil">My profile</string>
+    <string name="misMascotas">My pets</string>
+    <string name="historial">History</string>
+    <string name="configuracion">Settings</string>
+    <string name="confirmarNewPassword">Confirm new password</string>
+    <string name="nuevaPassword">New password</string>
+    <string name="guardarCambios">Save changes</string>
+    <string name="telefonosContacto">Contact phones</string>
+    <string name="tipoMascota">Type of pet</string>
+    <string name="raza">Breed</string>
+    <string name="fechNac">Birth date</string>
+    <string name="peso">Weight</string>
+    <string name="esterilizado">Is it neutered?</string>
+    <string name="fotoMascota">Pet photo</string>
+    <string name="addMascota">Add pet</string>
+    <string name="sizeLetra">Font size</string>
+    <string name="idioma">Language</string>
+    <string name="residencia">Associated residence</string>
+    <string name="modoOscuro">Dark mode</string>
+    <string name="addEmpleado">Add employee</string>
+    <string name="addHorario">Add schedule</string>
+    <string name="nivelAfectuoso">Affectionate level</string>
+    <string name="nivelAgresivo">Aggressive pet handling level</string>
+    <string name="nivelEstricto">Strictness level</string>
+    <string name="nivelEnfermos">Sick pet handling level</string>
+    <string name="tipoEmpleado">Type of employee</string>
+    <string name="salario">Salary</string>
+    <string name="pagoHora">Hourly wage</string>
+    <string name="paseador">Walker</string>
+    <string name="cuidador">Caretaker</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="cambiarImagen">Change image</string>
+    <string name="cambiarPassword">Change password</string>
+    <string-array name="tiposEmpleado">
+        <item>Caretaker</item>
+        <item>Walker</item>
+    </string-array>
+    <string name="salarioFormato">%.2f €</string>
+    <string name="pagoHoraFormato">%.2f €/hour</string>
+    <string name="guardar">Save</string>
+    <string name="noMascotasGuardadas">You have no pets saved</string>
+    <string name="crearCuenta">Create account</string>
+    <string name="logoAplicacion">Application logo</string>
+    <string name="requerido">*Required</string>
+    <string-array name="tiposMascota">
+        <item>Cat</item>
+        <item>Dog</item>
+    </string-array>
+    <string-array name="confirmacion">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string name="horarioLaboral">Work hours: %1$s - %2$s</string>
+    <string name="habitacionAsignada">Assigned room: Number %1$d - %2$s</string>
+    <string name="noMascotasHospedadas">No pets housed</string>
+    <string name="diaLibre">Today is your day off :)</string>
+    <string name="mascotasHospedadas">Housed pets</string>
+    <string name="fecha">Date</string>
+    <string name="habitacion">Room</string>
+    <string name="horaFin">End time</string>
+    <string name="horaInicio">Start time</string>
+    <string name="empleado">Employee</string>
+    <string name="formatoRangoFechas">%1$s - %2$s</string>
+    <string name="mascota">Pet</string>
+    <string name="pagar">Pay</string>
+</resources>
